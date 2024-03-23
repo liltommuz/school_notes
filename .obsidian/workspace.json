@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "cff660c35301667e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5560950a251d23f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fda41bbd11c5df09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6da406f7a75317a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99c547dfffdf9d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f317587e69b76aa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4df5b5f5a7becf85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed353da15a6c3369",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ba9aabed51ff653",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f748d1f1343c88c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d09c125427b70e64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8ccd71d0298836d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "591076aca74079cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70a74722bd7b73cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fda41bbd11c5df09",
+  "lastOpenFiles": [
+    "School/Informatica/Teoria/Query/HAVING.md",
+    "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+    "School/Informatica/Teoria/Query/GROUP BY.md",
+    "School/Informatica/Teoria/Query/Join/Right Join.md",
+    "School/Informatica/Teoria/Query/Join/Left Join.md",
+    "School/Informatica/Teoria/Query/Join/Inner Join.md",
+    "School/Informatica/Teoria/Query/LIKE.md",
+    "School/Informatica/Teoria/Query/Join",
+    "School/Informatica/Teoria/Query/UPDATE.md",
+    "School/Informatica/Teoria/Query/INSERT.md",
+    "School/Informatica/Teoria/Query/ORDER BY.md",
+    "School/Informatica/Teoria/Query/WHERE.md",
+    "School/Informatica/Teoria/Query/SELECT.md",
+    "School/Informatica/Teoria/Normalizzazione.md",
+    "School/Informatica/Teoria/Query",
+    "School/Informatica/Teoria/SubQuery.md",
+    "Assets/TabellaAereoporto.png",
+    "Assets/TabellaAereoporto.png.crdownload",
+    "School/Informatica/Pratica/Query",
+    "School/Informatica/Pratica",
+    "School/Informatica/Teoria",
+    "School/Informatica",
+    "Untitled 1",
+    "Assets",
+    "School"
+  ]
+}
