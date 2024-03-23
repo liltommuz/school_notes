@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+                "file": "School/Informatica/Teoria/Query/WHERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+                "file": "School/Informatica/Teoria/Query/WHERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+                "file": "School/Informatica/Teoria/Query/WHERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Informatica/Teoria/Query/1. Sintassi Basilare.md"
+                "file": "School/Informatica/Teoria/Query/WHERE.md"
               }
             }
           }
@@ -148,22 +148,22 @@
   },
   "active": "fda41bbd11c5df09",
   "lastOpenFiles": [
-    "School/Informatica/Teoria/Query/HAVING.md",
+    "School/Informatica/Teoria/Query/SELECT.md",
+    "School/Informatica/Teoria/Query/UPDATE.md",
+    "School/Informatica/Teoria/Query/WHERE.md",
+    "School/Informatica/Teoria/Query/ORDER BY.md",
+    "School/Informatica/Teoria/SubQuery.md",
+    "School/Informatica/Teoria/Normalizzazione.md",
     "School/Informatica/Teoria/Query/1. Sintassi Basilare.md",
+    "School/Informatica/Teoria/Query/HAVING.md",
     "School/Informatica/Teoria/Query/GROUP BY.md",
     "School/Informatica/Teoria/Query/Join/Right Join.md",
     "School/Informatica/Teoria/Query/Join/Left Join.md",
     "School/Informatica/Teoria/Query/Join/Inner Join.md",
     "School/Informatica/Teoria/Query/LIKE.md",
     "School/Informatica/Teoria/Query/Join",
-    "School/Informatica/Teoria/Query/UPDATE.md",
     "School/Informatica/Teoria/Query/INSERT.md",
-    "School/Informatica/Teoria/Query/ORDER BY.md",
-    "School/Informatica/Teoria/Query/WHERE.md",
-    "School/Informatica/Teoria/Query/SELECT.md",
-    "School/Informatica/Teoria/Normalizzazione.md",
     "School/Informatica/Teoria/Query",
-    "School/Informatica/Teoria/SubQuery.md",
     "Assets/TabellaAereoporto.png",
     "Assets/TabellaAereoporto.png.crdownload",
     "School/Informatica/Pratica/Query",
