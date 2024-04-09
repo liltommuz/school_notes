@@ -1,2 +1,7 @@
 # school_notes
-All my notes about school and university 
+
+Per leggervi le note con le immagini e collegamenti scaricatevi **Obsidian** in questo link https://obsidian.md/download
+
+Poi scaricatevi questa repo e utilizzatevela come Vault.
+
+enjoy :D
