@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Normalizzazione.md",
+                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 272.5
   },
   "right": {
     "id": "2ba9aabed51ff653",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Normalizzazione.md",
+                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Normalizzazione.md",
+                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Normalizzazione.md"
+                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md"
               }
             }
           }
@@ -146,21 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f317587e69b76aa0",
+  "active": "e5a8392287fa0f7a",
   "lastOpenFiles": [
-    "README.md",
-    "School/Informatica/Teoria/SQL/Normalizzazione.md",
-    "School/Informatica/Teoria/SQL/Query/ORDER BY.md",
     "School/Informatica/Teoria/SQL/Query/SELECT.md",
-    "School/Informatica/Teoria/SQL/Query/LIKE.md",
+    "School/Informatica/Teoria/SQL/Query/WHERE.md",
+    "School/Informatica/Teoria/SQL/Query/ORDER BY.md",
     "School/Informatica/Teoria/SQL/Query/INSERT.md",
     "School/Informatica/Teoria/SQL/Query/HAVING.md",
-    "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
     "School/Informatica/Teoria/SQL/Query/1. Sintassi Basilare.md",
+    "School/Informatica/Teoria/SQL/Normalizzazione.md",
+    "School/Italiano/Autore/Pirandello/Vita.md",
+    "School/Italiano/Autore/Pirandello/Opere.md",
+    "School/Italiano/Autore/Boudelaire/Vita.md",
+    "School/Italiano/Autore/Boudelaire/Opere.md",
+    "README.md",
+    "School/Informatica/Teoria/SQL/Query/LIKE.md",
+    "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
     "Assets/TabellaAnomalie.png",
     "School/Informatica/Teoria/SQL/SubQuery.md",
     "School/Informatica/Teoria/PHP/Base di PHP.md",
-    "School/Informatica/Teoria/SQL/Query/WHERE.md",
     "School/Informatica/Teoria/PHP",
     "School/Informatica/Teoria/SQL",
     "School/Informatica/Teoria/SQL/Query/UPDATE.md",
