@@ -1,0 +1,110 @@
+- I sistemi distribuiti -OK
+    - Introduzione ai sistemi distribuiti. 
+    - Classificazioni, vantaggi e svantaggi.
+    - Evoluzione dei sistemi distribuiti. 
+    - Classificazione di Flynn delle architetture hardware.
+    - Cluster computing e grid computing.
+    - Sistemi distribuiti pervasivi
+    - Reti domestiche
+    - Domotica
+    - Wearable computing.
+    - Architetture distribuite software 
+        - Architettura a terminali remoti
+        - Architettura client-server
+        - Architettura Web-centric
+        - Architettura cooperativa
+        - Architettura completamente distribuita.
+    - Architetture parallele, SISD, SIMD, MISD e MIMD. 
+- Il protocollo HTTP - OK
+    - Introduzione al protocollo HTTP.
+    - La comunicazione nel web con protocollo HTTP.
+    - Il protocollo HTTP: client-server, HTTP 1.0, HTTP 1.1. Tipi di risorse. Come avviene la comunicazione tra client e server.
+    - La comunicazione nel web con il protocollo HTTP: tipi di connessioni, i messaggi HTTP.
+    - La comunicazione nel web con il protocollo HTTP: HTTP request e HTTP response, la codifica url, i codici di stato, la suite Chrome developer Tools.
+- Il modello client-server -OK
+    - La comunicazione nel web: architettura generale del web. x
+    - Introduzione al modello client-server -<<>>
+    - Le applicazioni web e il modello client-server: tecnologie client-side e serverside, definizione di socket x
+    - Le applicazioni web e il modello client-server: il modello client-server, i servizi tipici del modello client-server, comunicazione unicast e multicast.  x
+    - I livelli e gli strati di un'architettura client-server. x
+    - Introduzione al modello a strati ISO/OSI
+    - Definizione del livello 7: applicazione.
+- Le applicazioni di rete - ok
+    - Protocollo di comunicazione
+    - Modello ISO/OSI
+    - Modello TCP/IP - gia fatto in i socket
+    - Confronto tra ISO/OSI e TCP/IP balza
+    - Differenze tra TCP e UDP ok
+    - I protocolli del livello applicazione. ok
+    - Definizione di applicazione di rete ok
+    - Caratteristiche delle architetture attualmente utilizzate, client-server, peer-topeer. ok
+    - Scelta del protocollo (TCP o UDP) da adottare per realizzare un protocollo applicativo. 
+    - Identificazione di un servizio mediante socket: il numero di porta, il socket
+- I socket - OK
+    - Introduzione ai socket e la loro implementazione nel protocollo TCP/IP
+    - I socket e i protocolli per la comunicazione in rete.
+    - Famiglie di socket: Internet socket e Unix Domain socket
+    - Tipi di socket, internet socket, stream socket, datagram socket
+- Comunicazione client-server in php con AJAX - OK
+    - Introduzione ad AJAX.
+    - BOM e DOM di javascript
+    - I quattro stadi della comunicazione con AJAX
+    - Differenza tra comunicazione tradizionale e comunicazione tramite AJAX
+- Le applicazioni lato server - da fare
+    - Elaborazione server-side e programmazione server-side.
+    - Modello a codice separato e modello a codice embedded
+    - CGI 
+    - Servlet
+
+
+- XML e JSON
+    - Introduzione e differenze tra XML e JSON
+    - Struttura e sintassi di entrambi i formati
+    - Utilizzo in contesti di scambio di dati e configurazione
+- Architettura TCP e sistemi distribuiti
+    - Concetti fondamentali di TCP
+        - Handshake, connessioni, flussi di dati
+    - Principi di sistemi distribuiti
+        - Scalabilità, affidabilità, fault tolerance
+    - Architettura client-server vs peer-to-peer
+        - Vantaggi e svantaggi, casi d'uso
+- Modello ISO/OSI e TCP, contestualizzazione laboratoriale
+    - Panoramica del modello ISO/OSI
+        - Strati, funzioni e protocolli associati
+    - Relazione tra modello ISO/OSI e TCP
+        - Come TCP si colloca all'interno del modello
+    - Contestualizzazione laboratoriale
+        - Esempi pratici e applicazione dei concetti in laboratorio
+        - Analisi di pacchetti e flussi di dati attraverso strumenti di diagnosi
+
+
+- Ripasso programmazione ad oggetti in C++ e Java
+    - Concetti base di programmazione ad oggetti
+    - Classi, oggetti, ereditarietà, polimorfismo
+    - Principi SOLID e loro applicazione
+- Programmazione client server in Java
+    - Presentazione del software Eclipse
+        - Funzionalità principali e ambiente di sviluppo
+    - Installazione e configurazione del JDK
+        - Passaggi e impostazioni necessarie
+    - Fondamentali della programmazione in Java
+        - Sintassi, tipi di dati, control flow
+- Sviluppo di software client server per la comunicazione di tipo UDP unicast
+    - Concetti di UDP e differenze con TCP
+    - Implementazione di un server UDP
+        - Gestione delle connessioni, ricezione e invio dati
+    - Implementazione di un client UDP
+        - Connessione al server, invio e ricezione dati
+- Sviluppo di software client server per la comunicazione di tipo TCP multicast
+    - Concetti di multicast in TCP
+    - Implementazione di un server TCP multicast
+        - Gestione delle connessioni multiple, ricezione e invio dati
+    - Implementazione di un client TCP multicast
+        - Connessione al server, invio e ricezione dati
+- Introduzione al linguaggio Visual C#
+    - Panoramica del linguaggio e del framework .NET
+    - Creazione di un applicativo client-server in modalità finestra
+        - GUI e gestione degli eventi
+        - Comunicazione tra client e server
+- Ajax
+    - Esercitazioni in laboratorio sull'utilizzo della tecnologia Ajax per la gestione di chiamate asincrone durante una connessione web
