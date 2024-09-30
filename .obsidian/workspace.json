@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md",
+                "file": "School/Italiano/Autore/Boudelaire/Vita.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md",
+                "file": "School/Italiano/Autore/Boudelaire/Vita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md",
+                "file": "School/Italiano/Autore/Boudelaire/Vita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Informatica/Teoria/SQL/Query/WHERE.md"
+                "file": "School/Italiano/Autore/Boudelaire/Vita.md"
               }
             }
           }
@@ -146,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5a8392287fa0f7a",
+  "active": "f317587e69b76aa0",
   "lastOpenFiles": [
-    "School/Informatica/Teoria/SQL/Query/SELECT.md",
+    "Poli/Informatica",
+    "Poli/New folder",
+    "Poli/Chimica",
+    "Poli",
+    "New folder",
+    "School/Italiano/Autore/Boudelaire/Opere.md",
+    "Untitled.canvas",
+    "2024-09-30.md",
     "School/Informatica/Teoria/SQL/Query/WHERE.md",
+    "School/Informatica/Teoria/SQL/Query/SELECT.md",
     "School/Informatica/Teoria/SQL/Query/ORDER BY.md",
     "School/Informatica/Teoria/SQL/Query/INSERT.md",
     "School/Informatica/Teoria/SQL/Query/HAVING.md",
@@ -158,7 +166,6 @@
     "School/Italiano/Autore/Pirandello/Vita.md",
     "School/Italiano/Autore/Pirandello/Opere.md",
     "School/Italiano/Autore/Boudelaire/Vita.md",
-    "School/Italiano/Autore/Boudelaire/Opere.md",
     "README.md",
     "School/Informatica/Teoria/SQL/Query/LIKE.md",
     "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
@@ -175,10 +182,6 @@
     "School/Informatica/Teoria/SQL/Query",
     "Assets/TabellaAereoporto.png",
     "Assets/TabellaAereoporto.png.crdownload",
-    "School/Informatica/Pratica/Query",
-    "School/Informatica/Pratica",
-    "School/Informatica/Teoria",
-    "School/Informatica",
-    "Untitled 1"
+    "School/Informatica/Pratica/Query"
   ]
 }
