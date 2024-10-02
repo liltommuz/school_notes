@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ae2ca54ec50c7419",
+        "id": "59302a1b8454a016",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a8392287fa0f7a",
+            "id": "e96804c6ad5d4445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Italiano/Autore/Boudelaire/Vita.md",
+                "file": "Polito/lezione1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ffb05f00434fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polito/Lezione2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Italiano/Autore/Boudelaire/Vita.md",
+                "file": "Polito/Lezione2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Italiano/Autore/Boudelaire/Vita.md",
+                "file": "Polito/Lezione2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Italiano/Autore/Boudelaire/Vita.md"
+                "file": "Polito/Lezione2.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f317587e69b76aa0",
+  "active": "f0ffb05f00434fbf",
   "lastOpenFiles": [
+    "Polito/esempi_lezione2.py",
+    "Polito/lezione1.md",
+    "Polito/Lezione2.md",
+    "Argomenti.md",
+    "School/Italiano/Autore/Boudelaire/Vita.md",
     "Poli/Informatica",
     "Poli/New folder",
     "Poli/Chimica",
@@ -165,7 +183,6 @@
     "School/Informatica/Teoria/SQL/Normalizzazione.md",
     "School/Italiano/Autore/Pirandello/Vita.md",
     "School/Italiano/Autore/Pirandello/Opere.md",
-    "School/Italiano/Autore/Boudelaire/Vita.md",
     "README.md",
     "School/Informatica/Teoria/SQL/Query/LIKE.md",
     "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
@@ -181,7 +198,6 @@
     "School/Informatica/Teoria/SQL/Query/Join",
     "School/Informatica/Teoria/SQL/Query",
     "Assets/TabellaAereoporto.png",
-    "Assets/TabellaAereoporto.png.crdownload",
-    "School/Informatica/Pratica/Query"
+    "Assets/TabellaAereoporto.png.crdownload"
   ]
 }
