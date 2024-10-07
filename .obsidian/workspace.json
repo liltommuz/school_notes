@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito/lezione1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0ffb05f00434fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polito/Lezione2.md",
+                "file": "Polito/lezione2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polito/Lezione2.md",
+                "file": "Polito/lezione2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polito/Lezione2.md",
+                "file": "Polito/lezione2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polito/Lezione2.md"
+                "file": "Polito/lezione2.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0ffb05f00434fbf",
+  "active": "e96804c6ad5d4445",
   "lastOpenFiles": [
-    "Polito/esempi_lezione2.py",
     "Polito/lezione1.md",
+    "Polito/lezione2.md",
+    "Polito/esempi_lezione2.py",
     "Polito/Lezione2.md",
     "Argomenti.md",
     "School/Italiano/Autore/Boudelaire/Vita.md",
@@ -197,7 +185,6 @@
     "School/Informatica/Teoria/SQL/Query/Join/Inner Join.md",
     "School/Informatica/Teoria/SQL/Query/Join",
     "School/Informatica/Teoria/SQL/Query",
-    "Assets/TabellaAereoporto.png",
-    "Assets/TabellaAereoporto.png.crdownload"
+    "Assets/TabellaAereoporto.png"
   ]
 }
