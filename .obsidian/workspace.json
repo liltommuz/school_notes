@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b4245b6016915ad",
+        "id": "7fb4ae5b971c4e47",
         "type": "tabs",
         "children": [
           {
-            "id": "3acb647b02c73c70",
+            "id": "ba41301339acc144",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3acb647b02c73c70",
+  "active": "ba41301339acc144",
   "lastOpenFiles": [
     "Polito/Lezione3.md",
     "Polito/Lezione4.md",
+    "Polito/Lezione5.md",
+    "Polito/Lezione2.md",
     "Polito/lezione2.md",
     "Polito/lezione1.md",
     "Polito/esempi_lezione2.py",
-    "Polito/Lezione2.md",
     "Argomenti.md",
     "School/Italiano/Autore/Boudelaire/Vita.md",
     "Poli/Informatica",
@@ -183,7 +184,6 @@
     "School/Informatica/Teoria/SQL",
     "School/Informatica/Teoria/SQL/Query/UPDATE.md",
     "School/Informatica/Teoria/SQL/Query/Join/Right Join.md",
-    "School/Informatica/Teoria/SQL/Query/Join/Left Join.md",
     "School/Informatica/Teoria/SQL/Query/Join",
     "School/Informatica/Teoria/SQL/Query",
     "Assets/TabellaAereoporto.png"
