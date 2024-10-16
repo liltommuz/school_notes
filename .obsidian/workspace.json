@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb4ae5b971c4e47",
+        "id": "7066875591410a66",
         "type": "tabs",
         "children": [
           {
-            "id": "339ccedec1535565",
+            "id": "0edc43a854b92766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'atomo.md",
+                "file": "Polito - camma/Informatica/Lezione7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'atomo.md",
+                "file": "Polito - camma/Informatica/Lezione7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'atomo.md",
+                "file": "Polito - camma/Informatica/Lezione7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'atomo.md"
+                "file": "Polito - camma/Informatica/Lezione7.md"
               }
             }
           }
@@ -146,9 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "339ccedec1535565",
+  "active": "0edc43a854b92766",
   "lastOpenFiles": [
-    "L'atomo.md",
+    "Polito - camma/Informatica/Lezione4.md",
+    "Polito - camma/Informatica/Lezione5.md",
+    "Polito - camma/Informatica/lezione6.md",
+    "Polito - camma/Informatica/Lezione7.md",
+    "Polito - camma/Informatica/Lezione3.md",
+    "Polito - camma/chimica/L'atomo.md",
     "Polito - camma/chimica",
     "Polito - camma/New folder",
     "Polito/Lezione4.md",
@@ -179,12 +184,7 @@
     "School/Informatica/Teoria/SQL/Normalizzazione.md",
     "School/Italiano/Autore/Pirandello/Vita.md",
     "School/Italiano/Autore/Pirandello/Opere.md",
-    "README.md",
-    "School/Informatica/Teoria/SQL/Query/LIKE.md",
-    "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
     "Assets/TabellaAnomalie.png",
-    "School/Informatica/Teoria/SQL/SubQuery.md",
-    "School/Informatica/Teoria/PHP/Base di PHP.md",
     "School/Informatica/Teoria/PHP",
     "Assets/TabellaAereoporto.png"
   ]
