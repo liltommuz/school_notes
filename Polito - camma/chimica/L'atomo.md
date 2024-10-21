@@ -13,35 +13,103 @@
     
 - **Rutherford (1911)** condusse l'esperimento della lamina d'oro, scoprendo che l'atomo ha un piccolo nucleo denso e carico positivamente, con gli elettroni che si muovono nello spazio circostante
 
-**6. Limiti del modello di Rutherford:** Il modello di Rutherford, noto come il **modello nucleare dell'atomo**, descriveva l'atomo come uno spazio vuoto con un piccolo nucleo centrale denso e carico positivamente, attorno al quale si muovono gli elettroni. Tuttavia, questo modello presentava alcune limitazioni:
+### **6. Limiti del modello di Rutherford**
 
-- **Perché gli elettroni non cadono nel nucleo?**: Secondo le leggi della fisica classica, un elettrone che si muove attorno al nucleo dovrebbe emettere radiazione e, perdendo energia, finire per spiraleggiare verso il nucleo, collassando su di esso. Questo non avviene, e il modello di Rutherford non poteva spiegare questa discrepanza.
-- **Spettri di emissione e assorbimento**: Quando si osservano gli atomi di determinati elementi, emettono o assorbono luce a specifiche lunghezze d'onda, creando spettri di emissione o di assorbimento. Il modello di Rutherford non spiegava perché ogni elemento avesse spettri distinti e quantizzati.
-- **Effetto fotoelettrico**: Rutherford non poteva spiegare l'effetto fotoelettrico, un fenomeno per cui la luce incidente su una superficie metallica libera elettroni, dimostrando che l'energia della luce è quantizzata. Questo fenomeno fu spiegato successivamente da Albert Einstein, basandosi sul concetto di fotoni, e portò allo sviluppo della meccanica quantistica.
+Il modello di Rutherford, noto come **modello nucleare dell'atomo**, fu una svolta nel descrivere l'atomo come composto da un nucleo centrale denso e carico positivamente, con gli elettroni che orbitano attorno in ampi spazi vuoti. Tuttavia, presentava alcune limitazioni che non potevano essere spiegate dal modello:
+
+- **Perdita di energia degli elettroni**: Secondo la fisica classica, un elettrone che orbita attorno al nucleo dovrebbe irradiare energia sotto forma di onde elettromagnetiche. Questo comporterebbe una perdita graduale di energia e, quindi, l'elettrone dovrebbe spiraleggiare verso il nucleo, collassando su di esso. Tuttavia, questo non avviene. Il modello di Rutherford non riusciva a spiegare perché gli elettroni non collassano nel nucleo.
+    
+- **Spettri di emissione e assorbimento**: Quando gli atomi di un elemento vengono riscaldati o eccitati, emettono luce a lunghezze d'onda specifiche, creando uno **spettro di emissione** discontinuo. Allo stesso modo, gli atomi assorbono luce a specifiche lunghezze d'onda, creando uno **spettro di assorbimento**. Rutherford non riusciva a spiegare perché gli atomi emettessero o assorbissero solo determinate lunghezze d'onda, suggerendo che la sua rappresentazione degli elettroni non era completa.
+    
+- **Effetto fotoelettrico**: Rutherford non riuscì a spiegare l'**effetto fotoelettrico**, un fenomeno per cui la luce che colpisce una superficie metallica può liberare elettroni dalla superficie stessa. L'effetto fotoelettrico fu spiegato successivamente da Einstein, che propose che la luce fosse composta da quanti di energia (i **fotoni**), un passo fondamentale verso lo sviluppo della meccanica quantistica.
+
+![Esperimento di Rutherford](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rutherford_gold_foil_experiment_results.svg/2880px-Rutherford_gold_foil_experiment_results.svg.png)
 
 ---
-**7. Struttura dell'atomo e particelle subatomiche:** L'atomo è costituito da tre particelle principali:
+### **7. Struttura dell'atomo e particelle subatomiche**
 
-- **Protoni**: carica positiva, massa di circa 1,67×10−271,67 \times 10^{-27}1,67×10−27 kg, localizzati nel nucleo.
-- **Neutroni**: senza carica (neutri), con massa simile a quella dei protoni, anch'essi presenti nel nucleo.
-- **Elettroni**: carica negativa, molto più leggeri rispetto ai protoni e neutroni (circa 1840 volte più leggeri), con una massa di circa 9,07×10−319,07 \times 10^{-31}9,07×10−31 kg. Gli elettroni orbitano attorno al nucleo.
+Il modello atomico di Rutherford, nonostante i suoi limiti, rivelò che l'atomo è costituito da tre tipi di **particelle subatomiche** principali:
 
-Il nucleo è caratterizzato da **interazioni nucleari forti**, una forza che tiene uniti protoni e neutroni, superando la repulsione elettrostatica tra i protoni. Tuttavia, il nucleo è molto piccolo rispetto all'intero atomo: mentre l'atomo ha un diametro dell'ordine di grandezza di un angstrom (circa 1×10−101 \times 10^{-10}1×10−10 m), il nucleo è circa 10510^5105 volte più piccolo (circa 1×10−151 \times 10^{-15}1×10−15 m).
-
-Oggi sappiamo che protoni e neutroni non sono particelle elementari, ma sono composti da particelle più piccole chiamate **quark**, tenute insieme dalle interazioni forti, mediate da particelle chiamate gluoni.
-
-**8. Ioni e Isotopi:**
-
-- **Ioni**: Gli atomi diventano ioni quando il numero di protoni nel nucleo non corrisponde al numero di elettroni che li orbitano. Se un atomo perde uno o più elettroni, diventa un **catione** (ion positivamente carico). Se invece acquisisce elettroni, diventa un **anione** (ion negativamente carico). Ad esempio, un atomo di fluoro (F) con 9 protoni e 10 elettroni è un anione **F⁻**, mentre un atomo di litio (Li) con 3 protoni e 2 elettroni è un catione **Li⁺**.
+- **Protoni**:
     
-    Gli ioni si formano spesso durante reazioni chimiche o per l’interazione con campi elettrici.
+    - Carica: Positiva (+1).
+    - Massa: Circa 1,67×10−271,67 \times 10^{-27}1,67×10−27 kg, ovvero 1 **unità di massa atomica (u)**.
+    - Localizzazione: Si trovano nel **nucleo** dell'atomo.
+- **Neutroni**:
     
-- **Isotopi**: Gli isotopi sono atomi dello stesso elemento che differiscono per il numero di neutroni nel loro nucleo. Hanno lo stesso numero di protoni (che determina l'elemento chimico) ma masse diverse a causa del diverso numero di neutroni. Ad esempio:
+    - Carica: Neutra (0).
+    - Massa: Simile a quella dei protoni, circa 1,67×10−271,67 \times 10^{-27}1,67×10−27 kg, o 1 u.
+    - Localizzazione: Anch'essi localizzati nel **nucleo**.
+    - Importanza: I neutroni stabilizzano il nucleo, riducendo la repulsione elettrostatica tra i protoni positivi.
+- **Elettroni**:
     
-    - L’idrogeno ha tre isotopi principali:
-        - **Prozio (¹H)**: l'isotopo più comune, con 1 protone e 0 neutroni.
-        - **Deuterio (²H)**: con 1 protone e 1 neutrone.
-        - **Trizio (³H)**: con 1 protone e 2 neutroni, è radioattivo.
-    - Gli isotopi di ossigeno includono **¹⁶O**, **¹⁷O**, e **¹⁸O**, con 8 protoni ma rispettivamente 8, 9, e 10 neutroni. La maggior parte degli elementi in natura ha più isotopi, che possono variare nella loro abbondanza naturale. Ad esempio, l'isotopo più abbondante del carbonio è **¹²C** (98.89%), seguito da **¹³C** (1.11%) e da tracce di **¹⁴C**, un isotopo radioattivo usato per la datazione di materiali organici (carbonio-14).
-    
-    Gli isotopi hanno generalmente le stesse proprietà chimiche poiché il loro comportamento chimico dipende dal numero di elettroni, che è uguale per gli isotopi di uno stesso elemento, ma differiscono nelle proprietà fisiche (ad esempio, nella massa atomica).
+    - Carica: Negativa (-1).
+    - Massa: Molto più leggeri rispetto a protoni e neutroni, circa 9,07×10−319,07 \times 10^{-31}9,07×10−31 kg (circa 1/1840 della massa di un protone).
+    - Localizzazione: Orbitano attorno al nucleo in regioni chiamate **orbitali**.
+
+![Dimensioni atomiche](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Atom.svg/2880px-Atom.svg.png)
+#### Interazioni all'interno dell'atomo
+
+- Il **nucleo** è tenuto insieme dalle **forze nucleari forti**, che superano la repulsione elettrostatica tra i protoni carichi positivamente. Queste forze agiscono solo a livello subatomico e sono responsabili della stabilità del nucleo.
+- Gli elettroni sono mantenuti nelle loro orbite attorno al nucleo grazie all'attrazione elettrostatica tra la carica positiva dei protoni e la carica negativa degli elettroni.
+
+#### Oggi sappiamo che:
+
+- **Protoni e neutroni** sono a loro volta costituiti da particelle più piccole chiamate **quark**, tenuti insieme dai **gluoni**, particelle mediatrici delle forze nucleari forti.
+
+#### **Unità di Massa Atomica (u)**
+
+L'**unità di massa atomica (u)**, o **dalton (Da)**, è una misura utilizzata per esprimere la massa degli atomi e delle molecole. Un'unità di massa atomica è definita come un dodicesimo della massa di un atomo di carbonio-12 (12C^{12}C12C). Quindi:
+
+- 1 u = 1.66×10−271.66 \times 10^{-27}1.66×10−27 kg.
+- La massa di un protone e di un neutrone è circa 1 u, mentre la massa dell'elettrone è molto inferiore, circa 0.00055 u.
+
+#### **Ångström (Å)**
+
+L'**Ångström (Å)** è un'unità di misura della lunghezza utilizzata per descrivere dimensioni atomiche e molecolari. 1 Å = 10−1010^{-10}10−10 metri. Gli atomi hanno un diametro tipico dell'ordine di 1 Å, mentre il nucleo atomico è molto più piccolo, circa 10−1510^{-15}10−15 metri.
+
+Di seguito, un'immagine che rappresenta la dimensione relativa tra il nucleo atomico e l'intero atomo.
+---
+### **8. Ioni, molecole e isotopi**
+
+#### Ioni
+
+Gli **ioni** si formano quando il numero di protoni (positivi) non è uguale al numero di elettroni (negativi) in un atomo:
+
+- Se un atomo **perde** uno o più elettroni, diventa un **catione** (ion positivo). Ad esempio, il litio (Li) può perdere un elettrone e diventare **Li⁺**.
+- Se un atomo **acquisisce** uno o più elettroni, diventa un **anione** (ion negativo). Un esempio è il fluoro (F), che acquisendo un elettrone diventa **F⁻**.
+
+Gli ioni giocano un ruolo fondamentale nella formazione di **composti ionici**, come il cloruro di sodio (**NaCl**), dove un catione di sodio (**Na⁺**) si lega a un anione di cloro (**Cl⁻**).
+
+#### Molecole
+
+Le **molecole** si formano quando due o più atomi si legano tra loro tramite **legami chimici**:
+
+- **Molecole semplici**: Composte da atomi dello stesso elemento, come il **diossigeno (O₂)**.
+- **Molecole complesse**: Composte da atomi di elementi diversi, come **l'acqua (H₂O)**, formata da due atomi di idrogeno e uno di ossigeno.
+
+Le molecole possono essere tenute insieme da:
+
+- **Legami covalenti**, dove gli atomi condividono coppie di elettroni.
+- **Legami ionici**, dove atomi con cariche opposte si attraggono elettrostaticamente.
+
+#### Isotopi
+
+Gli **isotopi** sono atomi dello stesso elemento con lo stesso numero di protoni ma un numero diverso di neutroni. Ciò significa che gli isotopi di un elemento hanno lo stesso numero atomico (**Z**), ma differenti numeri di massa (**A**):
+
+- **Esempio di isotopi dell'idrogeno**:
+    - **¹H** (prozio): 1 protone, 0 neutroni.
+    - **²H** (deuterio): 1 protone, 1 neutrone.
+    - **³H** (trizio): 1 protone, 2 neutroni.
+
+Gli isotopi hanno generalmente **le stesse proprietà chimiche**, poiché il loro comportamento chimico è determinato dagli elettroni, ma **proprietà fisiche differenti** a causa della differente massa.
+
+#### Abbondanza isotopica
+
+In natura, ogni elemento è presente sotto forma di diversi isotopi, ciascuno con una **abbondanza isotopica** diversa:
+
+- Ad esempio, il **carbonio (C)** ha due isotopi principali:
+    - **¹²C** (98.89% di abbondanza).
+    - **¹³C** (1.11% di abbondanza).
+
+Questa abbondanza isotopica influenza la **massa atomica relativa** di un elemento, che è una media ponderata delle masse dei suoi isotopi in natura.
