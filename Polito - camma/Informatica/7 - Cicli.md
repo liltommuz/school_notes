@@ -258,3 +258,7 @@ Abbiamo solo carte da 1 a 10, l'asso vale sempre 1, c'è solo un giocatore contr
 Se fai piu di 21 vince il banco e vince anche se fa piu di te.
 Se la somma è < 17 il computer non sta mai, se la somma è = 17, il computer si ferma, se fa piu di 21 vince l'utente.
 Il banco da una carta e la fa vedere, il banco ti da una seconda carta te le fa vedere e tu scegli se andare avanti.
+
+```pyhton
+
+```

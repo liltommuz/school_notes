@@ -1,5 +1,3 @@
-# Lezione 2 - La Mole
-
 ### **Introduzione**
 
 La mole è un concetto fondamentale in chimica, utilizzato per quantificare il numero di particelle (atomi, molecole, ioni). La mole consente ai chimici di misurare e lavorare con quantità di sostanza in modo standardizzato.
@@ -22,7 +20,7 @@ Una **molecola** è un gruppo discreto di atomi legati insieme in una disposizio
 - **Modello ball-and-stick**
 - **Modello spazio-riempimento**
 
-![Rappresentazioni delle molecole](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Various_chemical_representation_methods.png/2880px-Various_chemical_representation_methods.png)
+![Rappresentazioni delle molecole](https://slideplayer.it/slide/14354410/89/images/24/Formule+e+Rappresentazione+delle+Molecole.jpg)
 
 ---
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dbfd9f534ba64437",
+        "id": "33ecd6ca74d9e598",
         "type": "tabs",
         "children": [
           {
-            "id": "6159ca306b449d04",
+            "id": "8161bf93d11a90b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito - camma/Informatica/7 - Cicli.md",
+                "file": "Polito - camma/chimica/2 - La mole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - Cicli"
+              "title": "2 - La mole"
             }
           }
         ]
@@ -158,20 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6159ca306b449d04",
+  "active": "8161bf93d11a90b9",
   "lastOpenFiles": [
+    "Polito - camma/chimica/3 - Orbitali Atomici.md",
+    "Polito - camma/chimica/2 - La mole.md",
+    "Polito - camma/chimica/1 - L'atomo.md",
+    "Assets/TabellaAereoporto.png",
+    "Polito - camma/Informatica/7 - Cicli.md",
     "Polito - camma/Informatica/8 - Cicli annidati.md",
     "Polito - camma/Informatica/esempi-cicli.py",
     "Polito - camma/Informatica/esempi-cicli",
-    "Polito - camma/Informatica/7 - Cicli.md",
     "Polito - camma/Informatica/2 - simile a 3.md",
     "Polito - camma/Informatica/1 - Introduzione alla programmazione.md",
     "Polito - camma/Informatica/3 - Tipi di dati.md",
     "Polito - camma/Informatica/4 - ASCII.md",
     "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
     "Polito - camma/Informatica/6 - Operatori logici booleani.md",
-    "Polito - camma/chimica/La mole.md",
-    "Polito - camma/chimica/L'atomo.md",
     "Polito - camma/chimica",
     "Polito - camma/New folder",
     "Polito/Lezione4.md",
@@ -195,8 +197,6 @@
     "School/Informatica/Teoria/SQL/Query/WHERE.md",
     "School/Informatica/Teoria/SQL/Query/SELECT.md",
     "School/Informatica/Teoria/SQL/Query/ORDER BY.md",
-    "School/Informatica/Teoria/SQL/Query/INSERT.md",
-    "Assets/TabellaAnomalie.png",
-    "Assets/TabellaAereoporto.png"
+    "Assets/TabellaAnomalie.png"
   ]
 }
