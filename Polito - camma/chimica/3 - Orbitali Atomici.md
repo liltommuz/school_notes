@@ -13,33 +13,45 @@ Il **modello quantomeccanico** spiega il comportamento degli elettroni negli ato
 
 ## Il Comportamento delle Particelle Piccolissime
 
-Gli elettroni sono estremamente piccoli: un singolo granello di polvere contiene più elettroni di tutte le persone mai vissute sulla Terra. Sebbene il comportamento degli elettroni determini il comportamento degli atomi, **osservare direttamente un elettrone è impossibile**. Poiché sono così piccoli, osservare un elettrone ne altera il comportamento.
+Gli elettroni sono estremamente piccoli: un singolo granello di polvere contiene più elettroni di tutte le persone mai vissute sulla Terra. Sebbene il comportamento degli elettroni determini il comportamento degli atomi, **osservare direttamente un elettrone è impossibile**. 
+Poiché sono così piccoli, osservare un elettrone ne altera il comportamento.
 
-### Principio di Indeterminazione di Heisenberg e Dualità Onda-Particella
+### Principio di Indeterminazione di Heisenberg
 
-Il **Principio di Indeterminazione** afferma che non possiamo conoscere con precisione sia la posizione che la velocità di una particella simultaneamente. L'elettrone si comporta sia come una particella che come un'onda (**dualità onda-particella**).
+Secondo questo principio, non possiamo conoscere contemporaneamente con precisione la **posizione** e la **velocità** di un elettrone. Questo introduce l'idea di **indeterminazione** nel comportamento degli elettroni.
+
+> _“Non possiamo prevedere con precisione dove si troverà un elettrone in un dato momento, ma solo la probabilità che si trovi in una determinata posizione.”_
+
+### Dualità Onda-Particella
+
+Gli elettroni si comportano sia come **particelle** che come **onde**. Questo fenomeno è noto come **dualità onda-particella** e si osserva chiaramente negli esperimenti di **diffrazione elettronica**.
 
 ---
-
 ## La Natura della Luce
 
-La luce è una forma di **radiazione elettromagnetica**, composta da onde perpendicolari oscillanti: una per il campo elettrico e una per il campo magnetico. Un campo elettrico è una regione in cui una particella carica elettricamente sperimenta una forza; un campo magnetico è una regione dove una particella magnetizzata sperimenta una forza.
+La luce è una forma di **radiazione elettromagnetica**, composta da onde perpendicolari oscillanti: una per il campo elettrico e una per il campo magnetico. 
+Un campo elettrico è una regione in cui una particella carica elettricamente sperimenta una forza; Un campo magnetico è una regione dove una particella magnetizzata sperimenta una forza.
 
 ### Proprietà della Radiazione Elettromagnetica
 
 - **Ampiezza**: L'altezza dell'onda; maggiore ampiezza significa luce più intensa.
-- **Lunghezza d'onda (λ)**: Distanza tra un picco e il successivo.
+
+- **Lunghezza d'onda (λ)**: la distanza tra due picchi successivi dell'onda, che determina il colore della luce.
+
 - **Frequenza (ν)**: Numero di onde che passano per un punto in un dato periodo di tempo. Unità: Hertz (Hz) o cicli al secondo (s⁻¹).
-- **Velocità della luce (c)**: 3.00 x 10⁸ m/s nel vuoto.
+	Frequenza e lunghezza d'onda sono inversamente proporzionali.
 
 ![Onde Elettromagnetiche](https://upload.wikimedia.org/wikipedia/commons/d/da/Electromagnetic_wave.svg)
 
+Tutte le onde elettromagnetiche si muovono alla stessa velocità nel vuoto:  
+**Velocità della luce (c)** = 3.00 x 10⁸ m/s.
 ### Colore della Luce
 
-Il colore della luce è determinato dalla sua lunghezza d'onda o frequenza. La luce bianca è una combinazione di tutti i colori dello spettro visibile (rosso, arancione, giallo, verde, blu, viola). Quando un oggetto assorbe alcune lunghezze d'onda della luce bianca e ne riflette altre, appare colorato. Il colore osservato è quello riflesso.
+Il colore della luce è determinato dalla sua lunghezza d'onda o frequenza. 
+La luce bianca è una combinazione di tutti i colori dello spettro visibile (rosso, arancione, giallo, verde, blu, viola). 
+Quando un oggetto assorbe alcune lunghezze d'onda della luce bianca e ne riflette altre, appare colorato. Il colore osservato è quello riflesso.
 
 ---
-
 ## Lo Spettro Elettromagnetico
 
 La **luce visibile** rappresenta solo una piccola frazione dell'intero spettro elettromagnetico. La radiazione a lunghezza d'onda più corta (frequenza più alta) ha energia più elevata:
@@ -83,10 +95,10 @@ L'energia di un fotone è direttamente proporzionale alla frequenza della luce e
 ![Effetto Fotoelettrico](https://biologiawiki.it/fabmedia/1/effetto%20fotoelettrico.png)
 
 L'energia di un fotone è data dalla relazione:
-
-Efotone=hνE_{\text{fotone}} = h \nuEfotone​=hν
-
-dove hhh è la **costante di Planck** (6,626 x 10⁻³⁴ J·s).
+$$
+Efotone=hνE_{\text{fotone}} = h \nu
+$$
+dove h è la **costante di Planck** (6,626 x 10⁻³⁴ J·s).
 
 ---
 
@@ -102,11 +114,15 @@ Quando atomi o molecole assorbono energia, quest'ultima viene rilasciata sotto f
 
 ## Modello di Bohr dell'Atomo
 
-Bohr propose che gli elettroni potessero occupare solo orbite specifiche con quantità definite di energia (**stati stazionari**). L'energia degli elettroni è proporzionale alla distanza dall'orbita rispetto al nucleo.
+Bohr propose che gli elettroni potessero occupare solo orbite specifiche con quantità definite di energia (**stati stazionari**). 
+Gli elettroni possono **saltare** tra queste orbite emettendo o assorbendo **fotoni** di energia pari alla differenza tra i livelli energetici.
 
+> _La radiazione emessa o assorbita da un atomo (Energia) è proporzionale alla differenza di energia tra i livelli quantici._
+
+L'energia degli elettroni è proporzionale alla distanza dall'orbita rispetto al nucleo.
 ### Transizioni Elettroniche
 
-Quando un elettrone passa da un'orbita a un'altra con energia inferiore, emette radiazione elettromagnetica. Questa radiazione può essere descritta come fotoni la cui energia è data dalla differenza tra i livelli energetici degli orbitali.
+Quando un elettrone assorbe energia, può saltare a un livello energetico superiore. Quando poi torna a un livello inferiore, rilascia energia sotto forma di **luce**. Queste emissioni creano **spettri di emissione** unici per ciascun elemento.
 
 ---
 
@@ -123,9 +139,9 @@ L'elettrone interferisce con la propria onda, dimostrando la sua natura ondulato
 ## Principio di Indeterminazione di Heisenberg
 
 Heisenberg stabilì che il prodotto delle incertezze sulla posizione e sulla velocità di una particella è inversamente proporzionale alla sua massa:
-
+$$
 Δx⋅Δv≥h4πm\Delta x \cdot \Delta v \geq \frac{h}{4 \pi m}Δx⋅Δv≥4πmh​
-
+$$
 Questo implica che, più accuratamente conosciamo la posizione di una particella (come un elettrone), meno conosciamo la sua velocità, e viceversa.
 
 ---
@@ -134,7 +150,7 @@ Questo implica che, più accuratamente conosciamo la posizione di una particella
 
 L'equazione di Schrödinger descrive il comportamento degli elettroni come onde e ci permette di calcolare la **funzione d'onda** (Ψ), che rappresenta la probabilità di trovare un elettrone in una determinata posizione.
 
-La probabilità di trovare un elettrone in un certo punto dello spazio è data dal quadrato della funzione d'onda Ψ2\Psi^2Ψ2.
+La probabilità di trovare un elettrone in un certo punto dello spazio è data dal quadrato della funzione d'onda $|\Psi|^2$ .
 
 > **Nota**: L'atomo di idrogeno è l'unico atomo per cui l'equazione di Schrödinger può essere risolta esattamente.
 
@@ -144,7 +160,7 @@ La probabilità di trovare un elettrone in un certo punto dello spazio è data d
 
 Gli orbitali descrivono le regioni nello spazio attorno al nucleo dove è probabile trovare un elettrone. Questi orbitali sono descritti da **tre numeri quantici**:
 
-1. **n (numero quantico principale)**: descrive il livello di energia dell'orbitale.
+1. **n (numero quantico principale)**: descrive il livello di energia dell'elettrone e la dimensione dell'orbitale.
 2. **l (numero quantico angolare)**: descrive la forma dell'orbitale (s, p, d, f).
 3. **mₗ (numero quantico magnetico)**: descrive l'orientamento dell'orbitale nello spazio.
 
@@ -153,7 +169,7 @@ Gli orbitali descrivono le regioni nello spazio attorno al nucleo dove è probab
 - **Orbitali s**: Sferici.
 - **Orbitali p**: Due lobi opposti.
 - **Orbitali d**: Quattro lobi.
-- **Orbitali f**: Otto lobi.
+- **Orbitali f**: Orbitali complessi con otto lobi.
 
 ![Orbitali Atomici](https://staff.concord.org/~ddamelin/chemsite/c_AtomicTheory/Images/orbitals.jpg)
 
@@ -164,7 +180,9 @@ Gli orbitali descrivono le regioni nello spazio attorno al nucleo dove è probab
 La configurazione elettronica di un atomo descrive come gli elettroni sono distribuiti tra i diversi orbitali, seguendo questi principi:
 
 - **Principio di Aufbau**: Gli elettroni riempiono gli orbitali a energia inferiore prima di quelli a energia superiore.
+
 - **Principio di Esclusione di Pauli**: Ogni orbitale può contenere al massimo due elettroni con spin opposti.
+
 - **Regola di Hund**: Gli elettroni si distribuiscono in modo da massimizzare il numero di elettroni spaiati.
 
 > **Esempio**: La configurazione elettronica del Neon (Ne) è **1s² 2s² 2p⁶**.
@@ -177,3 +195,94 @@ Il **numero di ossidazione** indica la carica che un atomo acquista quando forma
 
 - Gli atomi in forma elementare hanno numero di ossidazione zero.
 - Per un ione monoatomico, il numero di ossidazione è uguale alla carica dello ione.
+
+## Calcolo del numero di ossidazione
+
+Per calcolare il **Numero d'ossidazione**, ci sono una serie di regole che permettono di determinare il numero di ossidazione di un elemento in un composto.
+
+### Regole per determinare il numero di ossidazione
+
+1. **Elementi allo stato elementare**: Il numero di ossidazione di un atomo in forma elementare (come $O_2$, $N_2$, $Cl_2$, ecc.) è **0**.
+    
+    Esempi:
+    
+    - $O_2$ → numero di ossidazione dell'ossigeno = **0**
+    - $Cl_2$ → numero di ossidazione del cloro = **0**
+    
+2. **Ioni monoatomici**: Per un **ione monoatomico**, il numero di ossidazione è uguale alla carica dello ione.
+    
+    Esempi:
+    
+    - $Na^+$ → numero di ossidazione del sodio = **+1**
+    - $Cl^-$ → numero di ossidazione del cloro = **-1**
+    
+3. **Idrogeno**: L'idrogeno ha generalmente un numero di ossidazione di **+1** quando è legato a non metalli, e **-1** quando è legato a metalli.
+    
+    Esempi:
+    
+    - In $H_2O$, l'idrogeno ha un numero di ossidazione di **+1**.
+    - In $NaH$ (idruro di sodio), l'idrogeno ha un numero di ossidazione di **-1**.
+    
+4. **Ossigeno**: L'ossigeno ha generalmente un numero di ossidazione di **-2**, eccetto nei **perossidi** (come $H_2O_2$), dove il suo numero di ossidazione è **-1**.
+    
+    Esempi:
+    
+    - In $H_2O$, l'ossigeno ha un numero di ossidazione di **-2**.
+    - In $H_2O_2$, l'ossigeno ha un numero di ossidazione di **-1**.
+    
+5. **Gruppo 1A (Alcalini)**: Gli elementi del gruppo 1A (come $Li$, $Na$, $K$) hanno sempre un numero di ossidazione di **+1** nei composti.
+    
+6. **Gruppo 2A (Alcalino-terrosi)**: Gli elementi del gruppo 2A (come $Mg$, $Ca$) hanno sempre un numero di ossidazione di **+2** nei composti.
+    
+7. **Alogeni**: Gli alogeni ($F$, $Cl$, $Br$, $I$) hanno generalmente un numero di ossidazione di **-1** nei composti con metalli. Tuttavia, quando legati all'ossigeno (come in $ClO_4^-$), possono avere numeri di ossidazione positivi.
+    
+8. **Sommatoria dei numeri di ossidazione in un composto**:
+    
+    - Per una **molecola neutra**, la somma dei numeri di ossidazione di tutti gli atomi è **0**.
+    - Per uno **ione poliatomico**, la somma dei numeri di ossidazione di tutti gli atomi è uguale alla **carica dello ione**.
+
+---
+### Esempi di calcolo del numero di ossidazione
+
+1. **$H_2O$ (acqua)**:
+    
+    - L'idrogeno ha un numero di ossidazione di **+1**.
+    - L'ossigeno ha un numero di ossidazione di **-2**.
+    
+    Verifica: $2(+1) + (-2) = 0$. Quindi, la somma è zero, confermando che è corretto.
+    
+2. **$Na_2SO_4$ (solfato di sodio)**:
+    
+    - $Na$ ha un numero di ossidazione di **+1** (regola del gruppo 1A).
+    - $O$ ha un numero di ossidazione di **-2** (regola per l'ossigeno).
+    - Somma delle ossidazioni di $Na$ e $O$: $2(+1) + 4(-2) = +2 - 8 = -6$.
+    
+    Per equilibrare, lo $S$ (zolfo) deve avere un numero di ossidazione di **+6**.
+    
+3. **$NH_4^+$ (ione ammonio)**:
+    
+    - L'idrogeno ha un numero di ossidazione di **+1**.
+    - La somma dei numeri di ossidazione deve essere uguale alla carica dello ione (+1). Quindi, l'azoto ($N$) deve avere un numero di ossidazione di **-3**.
+    
+    Verifica: $1(N) + 4(H) = -3 + 4 = +1$. La somma corrisponde alla carica dell'ione.
+    
+4. **$ClO_4^-$ (ione perclorato)**:
+    
+    - L'ossigeno ha un numero di ossidazione di **-2**.
+    - Per equilibrare la carica complessiva di -1, il cloro ($Cl$) deve avere un numero di ossidazione di **+7**.
+    
+    Verifica: $Cl (+7) + 4 \cdot O (-2) = +7 - 8 = -1$. Corretto, poiché la carica dello ione è -1.
+    
+
+---
+
+### Riepilogo delle Regole
+
+1. Stato elementare → $0$.
+2. Ioni → Numero di ossidazione uguale alla carica.
+3. Idrogeno → $+1$ (con non metalli), $-1$ (con metalli).
+4. Ossigeno → $-2$, eccetto nei perossidi ($-1$).
+5. Metalli del gruppo 1A → $+1$.
+6. Metalli del gruppo 2A → $+2$.
+7. La somma dei numeri di ossidazione in una molecola neutra è sempre **0**.
+8. La somma dei numeri di ossidazione in uno ione è uguale alla carica dello ione.
