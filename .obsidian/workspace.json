@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33ecd6ca74d9e598",
+        "id": "b66859a8aa48453f",
         "type": "tabs",
         "children": [
           {
-            "id": "8161bf93d11a90b9",
+            "id": "0f6bf6e05d921725",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polito - camma/chimica/2 - La mole.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2 - La mole"
-            }
-          },
-          {
-            "id": "6236c4b1e894db82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polito - camma/chimica/4 - La Tavola Periodica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - La Tavola Periodica"
+              "title": "New tab"
             }
           }
         ]
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Doppia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,46 +154,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8161bf93d11a90b9",
+  "active": "0f6bf6e05d921725",
   "lastOpenFiles": [
+    "Polito - camma/Informatica/2 - simile a 3.md",
+    "Polito - camma/Informatica/3 - Tipi di dati.md",
+    "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
+    "Polito - camma/Informatica/9 - Numeri relativi (continuo lezione5).md",
     "Polito - camma/chimica/3 - Orbitali Atomici.md",
     "Polito - camma/chimica/4 - La Tavola Periodica.md",
-    "Assets/metalli-nonmetalli.png",
+    "School/Italiano/Autore/Boudelaire/Opere.md",
+    "School/Italiano/Autore/Carducci/Vita.md",
+    "School/Italiano/Autore/Carducci/Opere.md",
+    "School/Italiano/Correnti_Letterarie/Decadentismo.md",
+    "School/Italiano/Correnti_Letterarie/Dadaismo.md",
+    "School/Italiano/Correnti_Letterarie/Estetismo.md",
+    "School/Italiano/Correnti_Letterarie/Neorealismo.md",
+    "School/TPSIT/Le applicazioni di rete.md",
+    "School/TPSIT/Il modello client-server.md",
+    "School/TPSIT/I sistemi Distribuiti.md",
+    "School/TPSIT/Comunicazione client-server in php con AJAX.md",
     "School/Informatica/Teoria/SQL/Normalizzazione.md",
-    "School/Informatica/Teoria/SQL/Query/WHERE.md",
-    "School/Informatica/Teoria/SQL/Query/UPDATE.md",
-    "School/Informatica/Teoria/SQL/Query/SELECT.md",
-    "School/Informatica/Teoria/SQL/Query/ORDER BY.md",
-    "School/Informatica/Teoria/SQL/Query/HAVING.md",
-    "School/Informatica/Teoria/SQL/Query/LIKE.md",
-    "School/Informatica/Teoria/SQL/Query/INSERT.md",
-    "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
-    "School/Informatica/Teoria/SQL/Query/1. Sintassi Basilare.md",
     "School/Informatica/Teoria/PHP/Base di PHP.md",
-    "Polito - camma/chimica/2 - La mole.md",
-    "Polito - camma/chimica/1 - L'atomo.md",
+    "School/Informatica/Teoria/SQL/Query/HAVING.md",
+    "School/Informatica/Teoria/SQL/Query/GROUP BY.md",
+    "School/Informatica/Teoria/SQL/Query/INSERT.md",
+    "School/Informatica/Teoria/SQL/Query/SELECT.md",
+    "School/Informatica/Teoria/SQL/Query/WHERE.md",
+    "School/Informatica/Teoria/SQL/SubQuery.md",
     "Assets/TabellaAereoporto.png",
+    "Assets/TabellaAnomalie.png",
+    "Assets/Tavola periodica per studenti.pdf",
+    "Assets/Tavola periodica.png",
+    "Assets/Screenshot 2024-10-23 125951.png",
     "Polito - camma/Informatica/7 - Cicli.md",
-    "Polito - camma/Informatica/8 - Cicli annidati.md",
+    "Assets/metalli-nonmetalli.png",
     "Polito - camma/Informatica/esempi-cicli.py",
     "Polito - camma/Informatica/esempi-cicli",
-    "Polito - camma/Informatica/2 - simile a 3.md",
-    "Polito - camma/Informatica/1 - Introduzione alla programmazione.md",
-    "Polito - camma/Informatica/3 - Tipi di dati.md",
-    "Polito - camma/Informatica/4 - ASCII.md",
-    "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
-    "Polito - camma/Informatica/6 - Operatori logici booleani.md",
     "Polito - camma/chimica",
     "Polito - camma/New folder",
-    "Polito/Lezione4.md",
-    "Polito/lezione6.md",
     "Polito/acqua.py",
     "Polito/esempi_lezione2.py",
     "Poli/Informatica",
     "Poli/New folder",
     "Poli/Chimica",
-    "Poli",
-    "Untitled.canvas",
-    "Assets/TabellaAnomalie.png"
+    "Untitled.canvas"
   ]
 }

@@ -8,7 +8,7 @@ La **legge periodica** fu proposta indipendentemente da **Dmitri Mendeleev** in 
 
 - **Henri Moseley** in seguito stabilì che il vero ordinamento degli elementi doveva essere fatto in base al **numero atomico** (piuttosto che alla massa), portando all'attuale organizzazione della tavola periodica.
 
-![Tavola Periodica Mendeleev](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mendelejevs_periodiska_system_1871.png/1024px-Mendelejevs_periodiska_system_1871.png)
+![[Tavola periodica.png]]
 
 ---
 
@@ -172,3 +172,8 @@ I **metalli di transizione** mostrano una grande varietà di stati di ossidazion
 <div style="text-align: center;">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coloured-transition-metal-solutions.jpg/400px-Coloured-transition-metal-solutions.jpg" alt="Colori dei Metalli di transizione">
 </div>
+
+
+# Allegati
+
+![[Tavola periodica per studenti.pdf]]

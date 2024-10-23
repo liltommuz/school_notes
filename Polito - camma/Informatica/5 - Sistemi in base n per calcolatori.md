@@ -16,7 +16,7 @@ Kilo    = 2^10
 Mega = 2^20
 Giga   = 2^30
 
-201 in base 5 = 2 * 5^2 + 0* 5^1 + 1 * 5^0 = 25 + 0 + 1 = 26
+201 in base $5 = 2 * 5^2 + 0* 5^1 + 1 * 5^0 = 25 + 0 + 1 = 26$
 
 1 byte = 8 bit = 256
 1 word = 2 byte = 16 bit = 65 536
@@ -26,7 +26,7 @@ divido ripetutamente per la base di cui voglio, prendo i resti delle divisioni i
 
 #Esempio
 
-11 in decimale = 11/2 = 5 resto *1*, 5/2 = 2 resto *1*, 2/2 = 1 resto *0* , 1/2 resto *1*
+11 in decimale = $11/2$ = 5 resto *1*, $5/2$ = 2 resto *1*, $2/2$ = 1 resto *0* , $1/2$ resto *1*
 
 percio in binario sarà uguale a 1011
 
@@ -88,7 +88,7 @@ N = 4
 	1000 = 
 	0010 --> Il risultato sarebbe 10010, un bit in più
 	
-In C gli interi occupano in genere 32 bit, = 2^31 -1 = 2147483647, se sommo 1 si azzera la variabile, il processore ha un registro dei flag, si alza quella di overflow.
+In C gli interi occupano in genere 32 bit, = $2^{31} -1$ = 2147483647, se sommo 1 si azzera la variabile, il processore ha un registro dei flag, si alza quella di overflow.
 
 In python non c'è questo problema, adatta in automatico in modo che non ci sia overflow.
 

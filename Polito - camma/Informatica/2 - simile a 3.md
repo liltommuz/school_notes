@@ -143,6 +143,34 @@ print(ord("&")) # 38
 UNICODE utilizza \ prima delle cifre:
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Operatori numerici
 --
 
