@@ -9,3 +9,6 @@ while i <= 127:
     print(f'{i}: ',chr(i))
     i+=1
 ```
+
+>_Non abbiamo fatto nulla alla fine_
+
