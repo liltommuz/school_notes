@@ -173,7 +173,18 @@ I **metalli di transizione** mostrano una grande varietà di stati di ossidazion
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coloured-transition-metal-solutions.jpg/400px-Coloured-transition-metal-solutions.jpg" alt="Colori dei Metalli di transizione">
 </div>
 
+---
+## Capitolo 10: Sommario delle Tendenze Periodiche
 
+### Riassunto delle Proprietà Periodiche
+
+1. **Raggio Atomico**: aumenta scendendo lungo un gruppo, diminuisce lungo un periodo.
+2. **Energia di Ionizzazione**: diminuisce scendendo lungo un gruppo, aumenta lungo un periodo.
+3. **Affinità Elettronica**: diventa più negativa lungo un periodo da sinistra a destra.
+4. **Carattere Metallico**: aumenta scendendo lungo un gruppo, diminuisce lungo un periodo.
+5. **Elettronegatività**: aumenta lungo un periodo, diminuisce lungo un gruppo.
+
+---
 # Allegati
 
 ![[Tavola periodica per studenti.pdf]]
