@@ -1,7 +1,13 @@
-def my_square(lato):
-	return (lato**2, lato*4)
+l = []
 
-lato = float(input("Inserisci il lato del cubo:\n"))
-quadrato = my_square(lato)
+def fact(n):
+	
+	
+	if n != 1:
+		l.append(n)
+		n = n * fact(n-1)
+		
+		print(l)
+	return n
 
-print(f"L'area del quadrato è: {quadrato[0]} il perimetro è: {quadrato[1]}")
+print(fact(997))

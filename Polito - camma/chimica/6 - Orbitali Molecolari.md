@@ -28,7 +28,7 @@ La **geometria molecolare** di una molecola viene descritta mediante figure geom
 #### Classificazione della Geometria Molecolare
 
 1. **Lineare**: 2 gruppi di elettroni (angolo di 180°).
-2. **Trigonal Planar**: 3 gruppi di elettroni (angolo di 120°).
+2. **Trigonale Planare**: 3 gruppi di elettroni (angolo di 120°).
 3. **Tetraedrica**: 4 gruppi di elettroni (angolo di 109,5°).
 4. **Bipiramidale Trigonale**: 5 gruppi di elettroni.
 5. **Ottaedrica**: 6 gruppi di elettroni.
