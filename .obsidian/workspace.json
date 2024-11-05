@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito - camma/Informatica/10 - Funzioni.md",
+                "file": "Polito - camma/Informatica/11 - liste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Funzioni"
+              "title": "11 - liste"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito - camma/Informatica/11 - bohr.md",
+                "file": "Polito - camma/Informatica/10 - Funzioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - bohr"
+              "title": "10 - Funzioni"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "3e5846f161d3f5c3",
   "lastOpenFiles": [
-    "Polito - camma/Informatica/11 - bohr.md",
     "Polito - camma/Informatica/10 - Funzioni.md",
+    "Polito - camma/Informatica/11 - liste.md",
     "Polito - camma/chimica/6 - Orbitali Molecolari.md",
     "Polito - camma/Informatica/8 - Cicli annidati.md",
     "Polito - camma/Informatica/7 - Cicli.md",

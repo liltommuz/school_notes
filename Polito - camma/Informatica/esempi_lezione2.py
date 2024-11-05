@@ -1,13 +1,9 @@
-l = []
+lista = [3, 1, 2]
 
-def fact(n):
-	
-	
-	if n != 1:
-		l.append(n)
-		n = n * fact(n-1)
-		
-		print(l)
-	return n
+lista2 = lista[:] #crea una copia della lista
 
-print(fact(997))
+lista[0:1] = [5, 6] 
+print(lista) # -> [5, 6, 2]
+
+lista[0:1] = [] #posso anche restringere una lista in questo modo
+print(lista) # -> [2]
