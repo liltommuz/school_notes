@@ -14,6 +14,8 @@ La struttura molecolare è determinante per le proprietà delle sostanze molecol
 
 La teoria VSEPR (Valence Shell Electron Pair Repulsion) descrive come le coppie di elettroni attorno a un atomo centrale si dispongano per minimizzare le reciproche repulsioni, permettendo di prevedere la **geometria molecolare**.
 
+![VSEPR](https://psiberg.com/wp-content/uploads/2022/08/Shapes-Of-Molecules.svg)
+
 ---
 
 ## Capitolo 2: Geometria Molecolare e Angoli di Legame
@@ -41,13 +43,16 @@ La **geometria molecolare** di una molecola viene descritta mediante figure geom
 
 Le **coppie solitarie** di elettroni, non essendo condivise, occupano più spazio attorno all'atomo centrale rispetto agli elettroni leganti, causando una riduzione degli angoli di legame. Gli effetti repulsivi tra coppie solitarie e legami si possono ordinare come:
 
-- **Coppia solitaria – Coppia solitaria** > **Coppia solitaria – Coppia di legame** > **Coppia di legame – Coppia di legame**
-
+>$$
+ Coppia solitaria – Coppia solitaria > Coppia solitaria – Coppialegame > Coppialegame – Coppialegame
+$$
 ### Strutture di Risonanza
 
 Le molecole che presentano **strutture di risonanza** hanno distribuzioni elettroniche equivalenti ma diverse configurazioni di legame, con gli elettroni che risultano **delocalizzati** su più atomi.
 
 > **Esempio**: Lo ione carbonato $CO_3^{2-}$ può essere rappresentato da tre strutture di risonanza equivalenti.
+
+![sttruttura di risonanza di $CO_3^{2-}$](https://www.pitest.it/wp-content/uploads/2021/04/risonanza-c03-scaled.jpg)
 
 ---
 
@@ -61,8 +66,9 @@ La polarità di una molecola dipende dalla combinazione tra la **polarità dei l
 
 > **Esempio**: L'acqua ($H_2O$) è polare per via della sua geometria angolare, mentre il biossido di carbonio ($CO_2$) è apolare nonostante i legami polari, per via della sua geometria lineare.
 
----
+![Geometria molecolare $H_2O vs CO_2$](https://slideplayer.it/slide/15445282/93/images/28/Confronta+CO2+ed+H2O.+Quale+%C3%A8+polare.jpg)
 
+---
 ## Capitolo 5: Teoria del Legame di Valenza
 
 La teoria del legame di valenza descrive il **legame covalente** come la sovrapposizione di **orbitali atomici** contenenti elettroni spaiati. Maggiore è la sovrapposizione, più forte sarà il legame risultante.
@@ -74,8 +80,9 @@ La teoria del legame di valenza descrive il **legame covalente** come la sovrapp
 
 > **Esempio**: Nella molecola di azoto ($N_2$), c'è un legame $\sigma$ e due legami $\pi$.
 
----
+![Valence bound](https://i.ytimg.com/vi/5vTh15DceXI/maxresdefault.jpg)
 
+---
 ## Capitolo 6: Ibridazione degli Orbitali
 
 ### Ibridazione sp, sp² e sp³
@@ -86,8 +93,10 @@ L’**ibridazione** è la combinazione di orbitali atomici per formare nuovi **o
 - **sp²**: Tre orbitali ibridi per una geometria trigonale planare (es. $C_2H_4$).
 - **sp**: Due orbitali ibridi per una geometria lineare (es. $CO_2$).
 
+<div style="text-align: center; background-color:white;">
+  <img src="https://malangone.net/wp-content/uploads/2022/04/Ibridazione%20(geometria).png" alt="Geometria degli ibridi">
+</div>
 ---
-
 ## Capitolo 7: Teoria degli Orbitali Molecolari (MO)
 
 ### Introduzione alla Teoria MO
@@ -98,28 +107,32 @@ Secondo la teoria degli orbitali molecolari (MO), gli **elettroni** in una molec
 - Gli **orbitali antileganti** risultano da un'interazione distruttiva, riducendo la densità elettronica tra i nuclei.
 
 ---
-
 ### Metodo LCAO (Combinazione Lineare di Orbitali Atomici)
 
 Il metodo **LCAO-MO** approssima gli orbitali molecolari come combinazioni lineari di orbitali atomici. Per ogni due orbitali atomici combinati, si formano un orbitale di legame e uno antilegante.
 
 > **Esempio**: Nella molecola $H_2$, due orbitali 1s degli atomi di idrogeno si combinano per formare un orbitale di legame e uno antilegante.
 
+<div style="text-align: center;">
+  <img src="https://www.shutterstock.com/image-vector/mo-orbital-energy-scheme-hydrogen-260nw-290472494.jpg" alt="LCAO-MO">
+</div>
 ---
-
 ## Capitolo 8: Ordine di Legame e Stabilità Molecolare
 
 L’**ordine di legame** in teoria MO si calcola con la formula:
-
-Ordine di Legame=12(elettroni nei MO leganti−elettroni nei MO antileganti)\text{Ordine di Legame} = \frac{1}{2} \left( \text{elettroni nei MO leganti} - \text{elettroni nei MO antileganti} \right)Ordine di Legame=21​(elettroni nei MO leganti−elettroni nei MO antileganti)
-
+$$
+Ordine di Legame=12(elettroni nei MO leganti−elettroni nei MO antileganti)\text{Ordine di Legame} $$$$
+= \frac{1}{2} \left( \text{elettroni nei MO leganti} - \text{elettroni nei MO antileganti} \right)Ordine di Legame
+$$
+$$
+=21​(elettroni nei MO leganti−elettroni nei MO antileganti)
+$$
 - Un ordine di legame maggiore di 0 indica una molecola stabile.
 - Un ordine di legame pari a 0 indica che la molecola non è stabile e non esiste.
 
 > **Esempio**: Per la molecola $H_2$, l’ordine di legame è 1, indicativo di un legame singolo stabile.
 
 ---
-
 ## Capitolo 9: MO e Magnetismo Molecolare
 
 ### Molecole Diamagnetiche e Paramagnetiche
@@ -129,7 +142,6 @@ Le molecole con **elettroni spaiati** negli orbitali molecolari sono **paramagne
 > **Esempio**: L'ossigeno molecolare ($O_2$) è paramagnetico, mentre il diazoto ($N_2$) è diamagnetico.
 
 ---
-
 ## Capitolo 10: Applicazioni della Teoria MO
 
 ### Molecole Eteronucleari
@@ -139,7 +151,6 @@ Nelle **molecole eteronucleari** (come $HF$ o $NO$), gli orbitali molecolari ris
 > **Esempio**: In $HF$, l’orbitale molecolare è più vicino all’atomo di fluoro, che ha maggiore elettronegatività rispetto all’idrogeno.
 
 ---
-
 ## Capitolo 11: Teoria a Bande nei Metalli e nei Semiconduttori
 
 ### Modello della Banda
