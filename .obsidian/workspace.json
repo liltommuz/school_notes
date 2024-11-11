@@ -11,10 +11,14 @@
             "id": "086ee95995e7c124",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Polito - camma/Informatica/12 - Tabelle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "12 - Tabelle"
             }
           }
         ]
@@ -156,13 +160,16 @@
   },
   "active": "086ee95995e7c124",
   "lastOpenFiles": [
+    "Polito - camma/Informatica/11 - Liste.md",
+    "Polito - camma/Informatica/12 - Tabelle.md",
+    "Polito - camma/chimica/6 - Orbitali Molecolari.md",
     "Polito - camma/chimica/7 - Gas.md",
     "Polito - camma/chimica/7+ - Tensione di Vapore e Diagrammi di fase.md",
-    "Polito - camma/chimica/6 - Orbitali Molecolari.md",
+    "Argomenti.md",
+    "README.md",
     "().md",
     "Polito - camma/chimica/5 - Legame Chimico.md",
     "Polito - camma/Informatica/10 - Funzioni.md",
-    "Polito - camma/Informatica/11 - liste.md",
     "Polito - camma/Informatica/8 - Cicli annidati.md",
     "Polito - camma/Informatica/7 - Cicli.md",
     "Polito - camma/Informatica/9 - Numeri relativi (continuo lezione5).md",
@@ -181,9 +188,6 @@
     "School/Italiano/Correnti_Letterarie/Estetismo.md",
     "School/Italiano/Correnti_Letterarie/Neorealismo.md",
     "School/TPSIT/Le applicazioni di rete.md",
-    "School/TPSIT/Il modello client-server.md",
-    "School/TPSIT/I sistemi Distribuiti.md",
-    "School/TPSIT/Comunicazione client-server in php con AJAX.md",
     "Assets/TabellaAereoporto.png",
     "Assets/TabellaAnomalie.png",
     "Assets/Tavola periodica per studenti.pdf",

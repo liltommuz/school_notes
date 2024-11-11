@@ -265,3 +265,82 @@ print(lista) # -> [6, 1, 2]
 ```
 
 > _Nota:_ Il primo numero nello slicing è incluso, mentre il secondo è escluso.
+
+---
+### list comprehension
+
+creare una lista con le lunghezze dei giorni della settimana.
+
+```python
+giorni = ['lunedi','martedi']
+lunghezza = []
+
+for giorno in giorni:
+	lunghezza.append(len(giorno))
+```
+
+- Con la comprehension, quando si deve definire una struttura si puo fare in una linea di codice.
+
+```python
+giorni = ['lunedi','martedi']
+lunghezza = [len(giorno) for giorno in giorni] # prende la lunghezza dei giorni per ogni giorno
+```
+
+Puo esserci anche una condizione:
+
+```python
+giorni = ['lunedi','martedi']
+accentati = [giorno for giorni if giorno[-1] = "'"] # Diciamo che prende solo gli apostrofi
+```
+
+>La comprension funziona con qualsiasi struttura dati di tipo ordinato.
+
+- Insiemi
+- Dizionari
+- Tuple
+
+---
+### Esercizi con algoritmi
+
+Es.
+- Stampa la media di questa lista di valori eliminando il piu basso prima di farlo.
+
+```python
+voti = [1,2,3,4,5]
+
+voti.remove(min(voti))
+if len(voti) > 0:
+	media = sum(voti)/len(voti)
+```
+
+Es.
+- Vogliamo capire se un dado è truccato, si lancia il dado un tot di volte e si vede se uno dei valori esce con frequenza anomala.
+
+```python
+from random import randint
+
+LANCI = 100
+VALORI = 6
+lista = [0]*VALORI
+
+for i in range(LANCI):
+    valore = randint(1,VALORI)
+    lista[valore-1] += 1
+
+for i in range(VALORI):
+    print(f"valore {i+1}: è uscito {lista[i]} volte")
+```
+
+Es.
+- Vogliamo scambiare la posizione degli elementi di un vettore:
+
+```python
+def scambio(lista):
+    meta = len(lista)//2
+    return lista[meta:] + lista[:meta]
+
+oggetti = [i for i in range(10)] #[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+oggetti2 = scambio(oggetti) #[5, 6, 7, 8, 9, 0, 1, 2, 3, 4]
+oggetti3 = scambio(oggetti2) #La lista ritorna normale
+```
+---
