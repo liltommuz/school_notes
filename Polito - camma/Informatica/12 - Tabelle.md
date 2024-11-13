@@ -84,3 +84,24 @@ len(tabella) #Rappresenta le righe
 len(tabella[0]) # Rappresenta le colonne
 ```
 
+#### Copiare una tabella
+
+Per copiare una tabella bisogna usare il metodo deepcopy().
+
+```python
+ROWS = 5
+COLONNE = 10
+table = []
+
+for i in range(ROWS):
+    row = [0]* COLONNE
+    table.append(row)
+
+print(table)
+
+table2 = copy.deepcopy(table)
+print(table2)
+```
+
+In questo modo crei copie differenti sia delle righe che delle colonne.
+se io faccio solo copy(), creo una nuova "Riga", pero il riferimento alle colonne sono quelli di prima.
