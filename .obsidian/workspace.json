@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito - camma/Informatica/10 - Funzioni.md",
+                "file": "Polito - camma/Informatica/3 - Operatori numerici.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Funzioni"
+              "title": "3 - Operatori numerici"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito - camma/Informatica/14 - Gestione dei files.md",
+                "file": "Polito - camma/Informatica/13 - Componenti computer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Gestione dei files"
+              "title": "13 - Componenti computer"
             }
           }
         ],
@@ -175,11 +175,20 @@
   },
   "active": "9faabfc1e4d417ca",
   "lastOpenFiles": [
+    "Polito - camma/Informatica/14 - Gestione dei files.md",
+    "Polito - camma/Informatica/7 - Cicli.md",
+    "Polito - camma/Informatica/6 - Operatori logici booleani.md",
+    "Polito - camma/Informatica/8 - Cicli annidati.md",
+    "Polito - camma/Informatica/9 - Numeri relativi (continuo lezione5).md",
+    "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
+    "Polito - camma/Informatica/4 - ASCII.md",
+    "Polito - camma/Informatica/3 - Operatori numerici.md",
+    "Polito - camma/Informatica/2 - Tipi di dati.md",
+    "Polito - camma/Informatica/13 - Componenti computer.md",
+    "Polito - camma/Informatica/1 - Introduzione alla programmazione.md",
+    "Polito - camma/Informatica/10 - Funzioni.md",
     "Polito - camma/Informatica/read_file.py",
     "Polito - camma/Informatica/story.txt",
-    "Polito - camma/Informatica/10 - Funzioni.md",
-    "Polito - camma/Informatica/13 - Compontenti computer.md",
-    "Polito - camma/Informatica/14 - Gestione dei files.md",
     "Polito - camma/Informatica/12 - Tabelle.md",
     "Polito - camma/Informatica/Blackjack.py",
     "Polito - camma/Informatica/memory.py",
@@ -191,21 +200,13 @@
     "README.md",
     "().md",
     "Polito - camma/chimica/5 - Legame Chimico.md",
-    "Polito - camma/Informatica/8 - Cicli annidati.md",
-    "Polito - camma/Informatica/7 - Cicli.md",
-    "Polito - camma/Informatica/9 - Numeri relativi (continuo lezione5).md",
     "Polito - camma/chimica/4 - La Tavola Periodica.md",
     "Untitled.canvas",
     "Assets/Lezione 4 - La tavola periodica-compresso.pdf",
-    "Polito - camma/Informatica/2 - simile a 3.md",
-    "Polito - camma/Informatica/3 - Tipi di dati.md",
-    "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
     "Polito - camma/chimica/3 - Orbitali Atomici.md",
     "School/Italiano/Autore/Boudelaire/Opere.md",
     "School/Italiano/Autore/Carducci/Vita.md",
     "School/Italiano/Autore/Carducci/Opere.md",
-    "School/Italiano/Correnti_Letterarie/Decadentismo.md",
-    "School/Italiano/Correnti_Letterarie/Dadaismo.md",
     "Assets/TabellaAereoporto.png",
     "Assets/TabellaAnomalie.png",
     "Assets/Tavola periodica per studenti.pdf",
@@ -215,7 +216,6 @@
     "Polito - camma/Informatica/esempi-cicli.py",
     "Polito - camma/Informatica/esempi-cicli",
     "Polito - camma/chimica",
-    "Polito - camma/New folder",
-    "Polito/acqua.py"
+    "Polito - camma/New folder"
   ]
 }
