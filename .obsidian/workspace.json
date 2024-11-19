@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polito - camma/Informatica/13 - Componenti computer.md",
+                "file": "Polito - camma/Informatica/4 - ASCII.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 - Componenti computer"
+              "title": "4 - ASCII"
             }
           }
         ],
@@ -175,16 +175,16 @@
   },
   "active": "9faabfc1e4d417ca",
   "lastOpenFiles": [
+    "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
+    "Polito - camma/Informatica/3 - Operatori numerici.md",
+    "Polito - camma/Informatica/4 - ASCII.md",
+    "Polito - camma/Informatica/13 - Componenti computer.md",
     "Polito - camma/Informatica/14 - Gestione dei files.md",
     "Polito - camma/Informatica/7 - Cicli.md",
     "Polito - camma/Informatica/6 - Operatori logici booleani.md",
     "Polito - camma/Informatica/8 - Cicli annidati.md",
     "Polito - camma/Informatica/9 - Numeri relativi (continuo lezione5).md",
-    "Polito - camma/Informatica/5 - Sistemi in base n per calcolatori.md",
-    "Polito - camma/Informatica/4 - ASCII.md",
-    "Polito - camma/Informatica/3 - Operatori numerici.md",
     "Polito - camma/Informatica/2 - Tipi di dati.md",
-    "Polito - camma/Informatica/13 - Componenti computer.md",
     "Polito - camma/Informatica/1 - Introduzione alla programmazione.md",
     "Polito - camma/Informatica/10 - Funzioni.md",
     "Polito - camma/Informatica/read_file.py",
